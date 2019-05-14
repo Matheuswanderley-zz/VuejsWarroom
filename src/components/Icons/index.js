@@ -1,0 +1,23 @@
+import Vue from 'vue'
+import 'vue-awesome/icons/volume-up'
+import 'vue-awesome/icons/volume-mute'
+import 'vue-awesome/icons/caret-up'
+import 'vue-awesome/icons/caret-down'
+import 'vue-awesome/icons/circle-notch'
+import 'vue-awesome/icons/times'
+import 'vue-awesome/icons/ban'
+import 'vue-awesome/icons/comment-alt'
+import 'vue-awesome/icons/newspaper'
+import 'vue-awesome/icons/blog'
+import 'vue-awesome/icons/exclamation'
+import 'vue-awesome/icons/search'
+
+import 'vue-awesome/icons/brands/facebook-f'
+import 'vue-awesome/icons/brands/twitter'
+import 'vue-awesome/icons/brands/youtube'
+import 'vue-awesome/icons/brands/instagram'
+import 'vue-awesome/icons/brands/tumblr'
+import 'vue-awesome/icons/brands/google-plus-g'
+
+import Icon from 'vue-awesome/components/Icon'
+Vue.component('icon', Icon)
